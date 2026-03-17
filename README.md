@@ -1,11 +1,11 @@
 # Hi, I'm Peter
 
-Computaitonal biochemist foucsed on analysing complex data to reveal insights into disease
+Computational biochemist foucsed on analysing complex data to reveal insights into disease
 
 ## What I work on
-- Gut microbiome & Coeliac Disease
+- Gut microbiome & coeliac disease
 - Multiomics intergration
-- Computaitonal protein design and analysis
+- Computational protein design and analysis
 
 ## Featured projects
 
