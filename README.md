@@ -1,4 +1,4 @@
-# Hi, I'm <Peter>
+# Hi, I'm Peter
 
 Computaitonal biochemist foucsed on analysing complex data to reveal insights into disease
 
