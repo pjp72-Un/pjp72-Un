@@ -1,6 +1,6 @@
 # 🧬 Hi, I'm Peter
 
-Computational biochemisty PhD candidate foucsed on analysing complex data to reveal insights into disease
+Computational biochemisty PhD candidate 
 
 ## 🔬 What I work on
 - Gut microbiome & coeliac disease
