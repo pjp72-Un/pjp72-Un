@@ -1,5 +1,3 @@
-# 🧬 Hi, I'm Peter
-
 Computational biochemisty PhD candidate 
 
 ## 🔬 What I work on
