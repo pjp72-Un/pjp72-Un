@@ -1,4 +1,4 @@
-#  Computational biochemisty PhD candidate 
+##  Computational biochemisty PhD candidate 
 
 ## 🔬 What I work on
 - Gut microbiome & coeliac disease
