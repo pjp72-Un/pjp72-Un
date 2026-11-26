@@ -1,13 +1,3 @@
-## Featured projects
-
-- Project 1 (https://github.com/CeliacMicrobiomeRepo/celiac-repository): Curation of publicly available coeliac disease gut microbiome metagenomic data for future proof progressive research
-- Project 2 (https://github.com/CeliacMicrobiomeRepo/cross-cohort-analysis): Cross-cohort analysis of publicly available gut microbiome metagenomic data to reveal global gut microbiome interactions with coeliac disease
-- Project 3 (https://github.com/pjp72-Un/CanterburyMultiomicsRepo): Multi-omics analysis of gut microbiome + metabolome during untreated & treated coeliac disease in Canterbury, New Zealand
-
-## Tools
-
-R - Python - Bash 
-
 ## Contact
 
 - Linkedin: https://nz.linkedin.com/in/peter-prendergast1
